@@ -14,3 +14,14 @@ Rol C - Configuració de serveis (DHCP/DNS) i polítiques de seguretat i còpies
 documents/ Document de Repte (Annex A)
 documents/fitxes/ fitxes d'activitat (Annex B)
 configuracio/ configuracions tècniques (quan s'execute el projecte)
+
+## Estat del projecte
+
+| Fase | Document | Estat |
+|---|---|---|
+| 1 Plantejament | [fase1-plantejament.md](documents/fase1-plantejament.md) | Lliurada |
+| 2 Repte | [document-repte.md](documents/document-repte.md) | Pendent |
+| 3 Activitats | [fitxes/](documents/fitxes/) | Pendent |
+| 4 Cronograma | [cronograma.md](documents/cronograma.md) | Pendent |
+| 5 Metodologia | [metodologia.md](documents/metodologia.md) | Pendent |
+| 6 Avaluació | [memoria/](documents/memoria/) | Pendent |
