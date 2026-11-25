@@ -1,0 +1,10 @@
+﻿# Màquines virtuals i imatges de disc
+*.vdi
+*.vmdk
+*.vhd
+*.ova
+*.iso
+
+# Fitxers temporals dels processadors de textos
+~$*
+.~lock.*
