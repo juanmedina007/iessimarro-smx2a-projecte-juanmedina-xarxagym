@@ -20,9 +20,9 @@
 
 | Concepte | Import |
 |---|---:|
-| **Base imposable (subtotal sense IVA)** | **1.712,17 €** |
+| **Base imposable (subtotal sense IVA)** | **1.712,18 €** |
 | **IVA (21 %)** | **359,56 €** |
-| **TOTAL PRESSUPOST (IVA inclòs)** | **2.071,73 €** |
+| **TOTAL PRESSUPOST (IVA inclòs)** | **2.071,74 €** |
 
 ## 3. Comparativa de la partida principal (Servidor central)
 
