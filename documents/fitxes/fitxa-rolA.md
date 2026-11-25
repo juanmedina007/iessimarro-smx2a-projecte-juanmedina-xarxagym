@@ -10,4 +10,4 @@
 * **Criteris d'acceptació / Verificació:**
   * Taula d'adreçament IP completa sense solapaments entre subxarxes.
   * Esquema validat per a la configuració dels serveis de xarxa.
-* **Estat:** En curs
+* **Estat:** En curs.
