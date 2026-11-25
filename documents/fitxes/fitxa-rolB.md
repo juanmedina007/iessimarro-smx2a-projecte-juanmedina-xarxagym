@@ -10,4 +10,4 @@
 * **Criteris d'acceptació / Verificació:**
   * Resolució de noms verificada mitjançant consultes `dig` o `nslookup`.
   * Regles de seguretat comprovades sense bloquejar el trànsit legítim.
-* **Estat:** En curs
+* **Estat:** En curs.
