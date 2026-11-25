@@ -10,4 +10,4 @@
 * **Criteris d'acceptació / Verificació:**
   * Els clients reben adreça IP, màscara, porta d'enllaç i DNS correctament.
   * Servei actiu i sense errors en els registres del sistema.
-* **Estat:** En curs
+* **Estat:** En curs.
