@@ -24,4 +24,4 @@ configuracio/ configuracions tècniques (quan s'execute el projecte)
 | 3 Activitats | [fitxes/](documents/fitxes/) | Lliurada |
 | 4 Cronograma | [cronograma.md](documents/cronograma.md) | Pendent |
 | 5 Metodologia | [metodologia.md](documents/metodologia.md) | Lliurada |
-| 6 Avaluació | [memoria/](documents/memoria/) | Pendent |
+| 6 Avaluació | [memoria/](documents/memoria/) | Lliurada |
