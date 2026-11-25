@@ -30,3 +30,8 @@ Dissenyar, implementar i documentar la infraestructura informàtica completa per
 * **Rol A (alumneA):** Coordinació tècnica, adreçament i servidor DHCP.
 * **Rol B (alumneB):** Serveis de noms (DNS) i seguretat (tallafocs).
 * **Rol C (alumneC):** Desplegament web i documentació tècnica.
+
+## 6. Recursos i entorn de proves
+* Virtualització mitjançant VirtualBox / Proxmox per a la simulació de servidors Linux i clients.
+* Eines d'anàlisi i verificació de xarxa (Wireshark, ping, dig, nmap).
+* Control de versions i gestió de tasques mitjançant GitHub i GitHub Projects.
