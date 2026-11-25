@@ -1,13 +1,13 @@
-# Fitxa d'Activitat - Rol B: Disseny de Xarxa i Adreçament IP
+# Fitxa de Tasca: Rol B (Serveis de xarxa i seguretat)
 
-- **Responsable:** Juan Medina (@juanmedina007)
-- **Projecte:** Xarxa i Serveis per a Centre de Fitness (xarxagym)
-- **Fite associada:** M1 - Dissent i Planificació
-
-## Tasques Realitzades
-1. Dissent de la topologia de xarxa local per a l'equipament del gimnàs (recepció, sala de màquines i zona adminstrativa).
-2. Definició del rang d'adreçament IP privat (Subxarxa `192.168.10.0/24`).
-3. Assegurament de la canalització i cablejat estructurat Cat6.
-
-## Resultats
-- Mapatge d'interfícies finalitzat i documentat per a la integració amb els serveis de xarxa.
+* **ID Incidència:** #6
+* **Títol de la tasca:** Configuració del servidor DNS intern i seguretat de xarxa
+* **Mòdul professional:** MP07 - Serveis en Xarxa / MP06 - Seguretat Informàtica
+* **Resultat d'Aprenentatge (RA):** RA2 - Configura serveis de resolució de noms i mesures de seguretat.
+* **Rol responsable:** Rol B (rolB-alumneB)
+* **Fita (Milestone):** M1 - Disseny i Planificació
+* **Descripció tècnica:** Configuració de la resolució de noms interna (`xarxagym.local`) i definició de regles bàsiques de seguretat per als equips del gimnàs XarxaGym.
+* **Criteris d'acceptació / Verificació:**
+  * Resolució de noms verificada mitjançant consultes `dig` o `nslookup`.
+  * Regles de seguretat comprovades sense bloquejar el trànsit legítim.
+* **Estat:** En curs
