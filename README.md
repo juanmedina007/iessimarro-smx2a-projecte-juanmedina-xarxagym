@@ -21,7 +21,7 @@ configuracio/ configuracions tècniques (quan s'execute el projecte)
 |---|---|---|
 | 1 Plantejament | [fase1-plantejament.md](documents/fase1-plantejament.md) | Lliurada |
 | 2 Repte | [document-repte.md](documents/document-repte.md) | Lliurada |
-| 3 Activitats | [fitxes/](documents/fitxes/) | Pendent |
+| 3 Activitats | [fitxes/](documents/fitxes/) | Lliurada |
 | 4 Cronograma | [cronograma.md](documents/cronograma.md) | Pendent |
 | 5 Metodologia | [metodologia.md](documents/metodologia.md) | Pendent |
 | 6 Avaluació | [memoria/](documents/memoria/) | Pendent |
